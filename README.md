@@ -1,4 +1,4 @@
-# hello-worldblic
+# hello-world
 Hello World!
 I'm here to get started using the Github repository. 
 The plan is to use Github as a portfolio to make my projects 
